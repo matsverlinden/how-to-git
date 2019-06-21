@@ -1,1 +1,1 @@
-# how-to-git
+# how-the-actual-fuck-do-i-git
